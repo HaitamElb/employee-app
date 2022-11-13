@@ -17,7 +17,7 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 
-//    to allow front-end app to access API
+//    to allow front-end app to access API.
     @Bean
     public CorsFilter corsFilter() {
         CorsConfiguration corsConfiguration = new CorsConfiguration();
