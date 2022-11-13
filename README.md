@@ -1,3 +1,3 @@
-# employee-app
+# employee-app using spring boot
 v1.0
-CRUD restAPI for employees
+CRUD rest API for employees
