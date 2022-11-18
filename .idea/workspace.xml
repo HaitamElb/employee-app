@@ -7,12 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4744fb6-a19e-463c-adda-7d07937d86ab" name="Changes" comment="Changing environment variables for docker mysql">
+    <list default="true" id="e4744fb6-a19e-463c-adda-7d07937d86ab" name="Changes" comment="Adding Docker file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,9 +84,9 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn package" />
       <command value="mvn clean" />
       <command value="mvn install" />
+      <command value="mvn package" />
     </option>
   </component>
   <component name="RunManager">
@@ -136,8 +132,16 @@
       <workItem from="1667910367414" duration="617000" />
       <workItem from="1668291216760" duration="191000" />
       <workItem from="1668795672505" duration="95000" />
-      <workItem from="1668808571493" duration="744000" />
+      <workItem from="1668808571493" duration="1680000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding Docker file">
+      <created>1668809496020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668809496020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +157,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Docker file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Docker file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
