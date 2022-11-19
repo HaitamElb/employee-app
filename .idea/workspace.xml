@@ -7,8 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4744fb6-a19e-463c-adda-7d07937d86ab" name="Changes" comment="Adding Docker file">
+    <list default="true" id="e4744fb6-a19e-463c-adda-7d07937d86ab" name="Changes" comment="Adding mysql env file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql_env.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mysql_env.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +74,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Haitam/IdeaProjects/demo&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;fe01ce2a7fbac8fafaed7c982a04e229&quot;
@@ -80,6 +83,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.demo.exception" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Haitam\IdeaProjects\demo" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -132,7 +138,8 @@
       <workItem from="1667910367414" duration="617000" />
       <workItem from="1668291216760" duration="191000" />
       <workItem from="1668795672505" duration="95000" />
-      <workItem from="1668808571493" duration="1680000" />
+      <workItem from="1668808571493" duration="2829000" />
+      <workItem from="1668825066076" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Docker file">
       <created>1668809496020</created>
@@ -141,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668809496020</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding mysql env file">
+      <created>1668811463458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668811463458</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +174,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Docker file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Docker file" />
+    <MESSAGE value="Adding mysql env file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding mysql env file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
