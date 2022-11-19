@@ -10,6 +10,7 @@
     <list default="true" id="e4744fb6-a19e-463c-adda-7d07937d86ab" name="Changes" comment="a commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,18 +91,19 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean" />
-      <command value="mvn install" />
       <command value="mvn package" />
+      <command value="mvn install" />
     </option>
   </component>
   <component name="RunManager">
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="ACTIVE_PROFILES" />
       <envs>
-        <env name="MYSQL_HOST" value="localhost" />
-        <env name="MYSQL_PORT" value="3307" />
-        <env name="MYSQL_USER" value="root" />
-        <env name="MYSQL_PASSWORD" value="1234" />
+        <env name="MYSQLHOST" value="containers-us-west-126.railway.app" />
+        <env name="MYSQLPORT" value="7372" />
+        <env name="MYSQLUSER" value="root" />
+        <env name="MYSQLPASSWORD" value="B8UGM5gNNo3mjsWZbkGv" />
+        <env name="MYSQLDATABASE" value="railway" />
       </envs>
       <module name="demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
@@ -161,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668826279220</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="a commit">
+      <created>1668826504830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668826504830</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
