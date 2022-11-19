@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4744fb6-a19e-463c-adda-7d07937d86ab" name="Changes" comment="Adding mysql env file">
+    <list default="true" id="e4744fb6-a19e-463c-adda-7d07937d86ab" name="Changes" comment="a commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql_env.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mysql_env.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dockerizing" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,10 +98,11 @@
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="ACTIVE_PROFILES" />
       <envs>
-        <env name="MYSQL_HOST" value="localhost" />
-        <env name="MYSQL_PORT" value="3307" />
-        <env name="MYSQL_USER" value="root" />
-        <env name="MYSQL_PASSWORD" value="1234" />
+        <env name="MYSQLHOST" value="containers-us-west-126.railway.app" />
+        <env name="MYSQLPORT" value="7372" />
+        <env name="MYSQLUSER" value="root" />
+        <env name="MYSQLPASSWORD" value="B8UGM5gNNo3mjsWZbkGv" />
+        <env name="MYSQLDATABASE" value="railway" />
       </envs>
       <module name="demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
