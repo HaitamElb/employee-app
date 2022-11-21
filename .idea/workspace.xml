@@ -9,7 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e4744fb6-a19e-463c-adda-7d07937d86ab" name="Changes" comment="a commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +140,8 @@
       <workItem from="1668795672505" duration="95000" />
       <workItem from="1668808571493" duration="2829000" />
       <workItem from="1668825066076" duration="256000" />
+      <workItem from="1668879619595" duration="1265000" />
+      <workItem from="1668884104293" duration="1682000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Docker file">
       <created>1668809496020</created>
